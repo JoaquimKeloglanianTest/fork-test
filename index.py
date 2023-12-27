@@ -1,1 +1,1 @@
-First file
+print("Hello World")
